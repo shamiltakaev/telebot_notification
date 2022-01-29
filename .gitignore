@@ -7,3 +7,4 @@ FileWork.py
 t.py
 db.py
 db_scripts.py
+__pycache__
